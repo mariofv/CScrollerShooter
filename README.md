@@ -2,7 +2,7 @@
 
 ## Credit
 
-(add your name here)
+Mario Fernández Villalba
 
 ## License
 
